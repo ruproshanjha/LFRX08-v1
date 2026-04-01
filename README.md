@@ -41,7 +41,7 @@ The system is optimized for:
 
 ### Step 3: Select Board
 
-* Choose your microcontroller (Arduino / ESP)
+* Choose your microcontroller (Arduino NANO ? Arduino UNO)
 * Select correct COM port
 
 ### Step 4: Upload Code
