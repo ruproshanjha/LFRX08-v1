@@ -73,5 +73,4 @@ The system is optimized for:
 
 ## 5. Author
 
-Author: Rup Roshan Jha
 Team: Black Pearl Robotix
